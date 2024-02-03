@@ -11,7 +11,7 @@ minipay
 - Austine, Backend
 - Fadhili, Backend
 - Kevin, Frontend
-- Gilbert, Backend
+- Gilbert, Frontend
   
 #### Project Description
 
@@ -22,7 +22,8 @@ In summary, our Celo-Based DeFi Payroll System revolutionizes payroll management
 
 #### URLs
 
-List any URLs relevant to demonstrating your prototype
+url link of our project on alfajores
+https://explorer.celo.org/alfajores/tx/0x235fd8b1d03f88b931ab561792ad68b3576bc0fa416a71c872a078176f30027b
 
 #### Presentation
 
@@ -34,6 +35,11 @@ node js
 solidity
 javascript
 ethers
+hardhat
+
+### Running the Code
+node app.js
+
 
 
 #### Next Steps
@@ -53,15 +59,7 @@ This repository includes an [unlicensed](http://unlicense.org/) statement though
 
 We used the following Judging criteria to tally the points and award the winners of the     Celo Code Jam 
 
-### The Judging Criteria Used
 
-<ul>
-  <li>Technology - Engineering skills demonstrated, and the quality code</li>
-  <li>Design - Attention to aesthetics, interaction, and user interface</li>
-  <li>Impact: A solution that meets a customer’s need has the potential to be a sustainable, impactful solution.</li>
-  <li>Presentation - The clarity of written and oral presentation</li>
-  <li>Inspiration - How much we love and are excited about the idea</li>
-</ul>
 
 
 
