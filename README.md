@@ -26,7 +26,15 @@ List any URLs relevant to demonstrating your prototype
 
 #### Presentation
 
-List any links to your presentation or any related visuals you want to share.
+https://drive.google.com/file/d/1UM7vDLoesfbvLZkR1gEV023kG-RxyZg0/view?usp=drivesdk
+
+
+#### Requirements
+node js
+solidity
+javascript
+ethers
+
 
 #### Next Steps
 1.Refine code for performance and stability.
